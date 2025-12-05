@@ -36,7 +36,6 @@ namespace Calculator
 		{
 			Frame.Navigate(typeof(UnitConverter));
 		}
-	}
 
 		private void mortgageCalculatorButton_Click(object sender, RoutedEventArgs e)
 		{
